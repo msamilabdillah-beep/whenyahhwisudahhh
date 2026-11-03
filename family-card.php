@@ -369,6 +369,7 @@ unset($_SESSION['family_success'], $_SESSION['family_error']);
             font-size: 22px;
             font-weight: 800;
             margin-bottom: 5px;
+            color: #fff;
         }
 
         .family-meta {
